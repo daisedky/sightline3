@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "212338571114",
+    "firebase_url": "https://sightline-8fd1e-default-rtdb.firebaseio.com",
+    "project_id": "sightline-8fd1e",
+    "storage_bucket": "sightline-8fd1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212338571114:android:63fcd36e02d243a77d1713",
+        "android_client_info": {
+          "package_name": "com.example.sightline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212338571114-m85e5f7kdmrpum34f2qqcnccbkeki4kn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sightline",
+            "certificate_hash": "aa53ecfd909aa7d6c0d9dc7a11a3080ffbdd144c"
+          }
+        },
+        {
+          "client_id": "212338571114-jjmvndeuo14cft31e8psshh4vocfhj2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClX85hVs_qqju2HnIzEM201wuq-MTFREQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212338571114-jjmvndeuo14cft31e8psshh4vocfhj2a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212338571114-isjfhl2ntrdag1ft81l0aac6f7pdo686.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sightline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
